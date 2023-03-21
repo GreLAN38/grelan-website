@@ -1,0 +1,52 @@
+.app-header-avatar {
+  border: none;
+}
+
+.app-header-social {
+  margin-top: 20px;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-color: $darkest-color;
+  padding: 4px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+label.lbl-textarea {
+  vertical-align: top;
+}
+
+input[type=text],
+select,
+textarea {
+  padding: 4px;
+  border: 0;
+  box-shadow: 0 0 15px 4px rgba(0, 0, 0, 0.3);
+}
+
+form>.form {
+  display: table;
+}
+
+form>.form>p {
+  display: table-row;
+}
+
+form>.form>p>label {
+  display: table-cell;
+  text-align: right;
+  padding: 5px;
+}
+
+form>.form>p>select,
+form>.form>p>input,
+form>.form>p>div,
+form>.form>p>textarea {
+  display: table-cell;
+}

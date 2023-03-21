@@ -1,0 +1,82 @@
+baseURL = "http://grelan.fr/"
+languageCode = "fr-fr"
+title = "Grelan"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Acceuil"
+    url = "/"
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archives"
+    url = "/archives/"
+
+  [[menu.main]]
+    identifier = "communication"
+    name = "Communication"
+    url = "/communication/"
+
+  [[menu.main]]
+    identifier = "subscribe"
+    name = "Inscription"
+    url = "/subscribe/"
+
+  [[menu.main]]
+    identifier = "games"
+    name = "Jeux"
+    url = "/games/"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "L'association"
+    url = "/about/"
+
+  [[menu.main]]
+    identifier = "participants"
+    name = "Liste des inscrits"
+    url = "/participants/"
+
+  [[menu.main]]
+    identifier = "legals"
+    name = "Mentions légales"
+    url = "/legals/"
+
+  [[menu.main]]
+    identifier = "map"
+    name = "Plan"
+    url = "/map/"
+
+[params]
+  author = "Grelan"
+  description = "  "
+  menu_item_separator = " <br/> "
+  avatar = "logo.png"
+  [[params.social]]
+    icon = "mail"
+    name = "Mail"
+    url = "mailto:grelan38@gmail.com"
+  [[params.social]]
+    icon = "facebook"
+    name = "Facebook"
+    url = "https://www.facebook.com/groups/GreLAN38/"
+  [[params.social]]
+    icon = "discord"
+    name = "Discord"
+    url = "https://discord.gg/jEtUxR4"
+
+  [params.style]
+    darkestColor = "#242930"
+    darkColor = "#353b43"
+    lightColor = "#afbac4"
+    lightestColor = "#ffffff"
+    primaryColor = "#57cc8a"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+    [markup.goldmark.extensions]
+      footnote = true
