@@ -9,7 +9,7 @@ La GreLAN 22 du vendredi 23 juin 20h au dimanche 25 juin 2023 vers 13h, dans la 
 
 Prix de 25€ par participant.
 
-Fin des inscriptions sur internet une semaine avant la GreLAN 22' (soit le lundi 19 juin).
+Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).
 
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir L'association).
 
