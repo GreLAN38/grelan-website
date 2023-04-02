@@ -11,7 +11,7 @@ Voir plan [ici](/map/).
 
 Prix de **25€** par participant.
 
-***Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).***
+***<FONT COLOR=Red>Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).</FONT>***
 
 &nbsp;
 
