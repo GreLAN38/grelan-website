@@ -11,6 +11,8 @@ Cette liste est mise à jour manuellement par le staff, plus d'une fois par sema
 
 Nous sommes pour le moment 1 joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
+&nbsp;
+
 | N°  | Pseudo   | Prénom  | Age | Ville                  | Team   | Cotisation |
 | --- | -------- | ------- | --- | ---------------------- | ------ | ---------- |
 | 1   | MEPHISTO | Florian | 39  | Saint Martin Le Vinoux | GreLAN |            |
