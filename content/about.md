@@ -13,7 +13,7 @@ L'association GreLAN à été fondée par, le 15 septembre 2015 à Saint Martin 
    **Mr LAUNAY Tiphaine** - pseudo : Khradys.
 3. Le trésorier de l'association :
    **Mr ZERBINO Pierrick** - pseudo : Zerbi.
-4. Membre d’honneur de l'association et Vice Président par inétrim :
+4. Membre d’honneur de l'association et Vice Président par intérim :
    **Mr CAMPOS-RUIZ Julien** - pseudo : Antares.
 
 Pour nous contacter :
