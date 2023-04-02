@@ -5,17 +5,19 @@ draft: false
 layout: single
 type: _default
 ---
-La **GreLAN 21'** du vendredi 17 mars 20h au dimanche 19 mars 2023 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
+La **GreLAN 22** du vendredi 23 juin 20h au dimanche 25 juin 2023 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
 Prix de **25€** par participant.
 
-***Fin des inscriptions sur internet une semaine avant la GreLAN 21' (soit le lundi 13 mars).***
+***Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).***
 
 &nbsp;
 
-Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement.
+Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
+
+Rib sur demande par mail.
 
 &nbsp;
 
@@ -35,6 +37,6 @@ Si vous aves peur d'oublier du matériel vérifier ce que vous avez prévu par r
 
 &nbsp;
 
-Pour la nourriture, il y a possibilité d’en acheter sur place dans les commerces de proximités (pizzeria, boulangerie, épicerie Bio, etc ...).
-Généralement le samedi soir on prévoit de se faire une commande groupée de pizza, alors prévoyez un peu de monnaie.
-Sinon, apportez votre propre nourriture pour les trois jours. Un frigo pourra être mis à votre disposition pour garder des aliments et des boissons au frais.
+Pour la nourriture, il y a possibilité d’en acheter sur place dans les commerces de proximités (pizzeria, boulangerie, etc ...).
+Généralement le **samedi soir** on prévoit de se faire **une commande groupée de pizza**, alors prévoyez un peu de **monnaie**.
+Sinon, apportez votre propre nourriture pour les trois jours. Un frigo sera mis à votre disposition pour garder des aliments et des boissons au frais.
