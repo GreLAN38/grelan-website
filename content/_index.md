@@ -13,8 +13,6 @@ Prix de **25€** par participant.
 
 ***<FONT COLOR=Red>Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).</FONT>***
 
-&nbsp;
-
 Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
 
 Rib sur demande par mail.
