@@ -25,7 +25,7 @@ Le responsable publication est une personne physique ou une personne morale.
 
 **Webmaster** : Mephisto – grelan38@gmail.com
 
-**Hébergeur** : GitHub – 88 Colin Purdie  Kelly Junior Sreet, San Francisco, USA
+**Hébergeur** : GitHub – 88 Colin Purdie  Kelly Junior Sreet, 94107 San Francisco, UNITED STATES
 
 **Rédacteur** : Mephisto
 
