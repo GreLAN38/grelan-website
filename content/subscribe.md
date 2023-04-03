@@ -29,13 +29,7 @@ Inscriptions validées manuellement à la réception du payement.[^1]
     </p>
     <p>
       <label>Age:</label>
-      <select name="age">
-        <option value="- 18">- 18</option>
-        <option value="18-25" selected>18 à 25</option>
-        <option value="26-30">26 à 30</option>
-        <option value="31-40">31 à 40</option>
-        <option value="+ 40">+ 40</option>
-      </select>
+      <input type="number" name="age" min="10" max="100" placeholder="18">
     </p>
     <p>
       <label>Pseudo:</label>
