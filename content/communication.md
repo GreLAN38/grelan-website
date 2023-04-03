@@ -9,7 +9,7 @@ type: _default
 
 1 - Page [Facebook](https://www.facebook.com/groups/GreLAN38/) de l'association GreLAN.  
 
-2 - Evénement [Facebook](https://www.facebook.com/events/910454807050858/) de la GreLAN 22.  
+2 - Evénement [Facebook](https://www.facebook.com/events/1144012983662214) de la GreLAN 22.  
 
 3 - Événement [Alentoor](https://www.alentoor.fr/saint-martin-le-vinoux/agenda/4112265-lan-party-grelan-game-week-end-21-ou-ggw-21) : Tout autour de vous.  
 
