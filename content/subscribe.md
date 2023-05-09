@@ -48,6 +48,10 @@ Inscriptions validées manuellement à la réception du payement.[^1]
       <input type="text" name="mail" size="20" maxlength="50" placeholder="Votre Adresse e-mail"/>
     </p>
     <p>
+      <label>Numéro de téléphone:</label>
+      <input type="text" name="phone" size="20" maxlength="50" placeholder="Votre Numéro de téléphone"/>
+    </p>
+    <p>
       <label>Type de PC<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</label>
       <input type="radio" name="type" id="typeChoice1" value="Desktop" checked/> PC fixe
       <input type="radio" name="type" id="typeChoice2" value="Laptop"/> PC portable
