@@ -15,10 +15,11 @@ Nous sommes pour le moment 7 joueurs sur un nombre de place limité à **25**. E
 
 | N°  | Pseudo       | Prénom   | Age | Ville                  | Team       | Cotisation |
 | --- | ------------ | -------- | --- | ---------------------- | ---------- | ---------- |
-| 1   | MEPHISTO     | Florian  | 40  | Saint Martin Le Vinoux | GreLAN     |            |
+| 1   | MEPHISTO     | Florian  | 40  | Saint Martin Le Vinoux | GreLAN     | X          |
 | 2   | Tartiflettor | Yann     | 35  | La Tronche             | GreLAN     |            |
 | 3   | Antares      | Julien   | 39  | Thusy                  | Siber      |            |
-| 4   | Neilge       | Adrien   | 32  | Le Pont de Claix       | Vhahwerion |            |
+| 4   | Neilge       | Adrien   | 32  | Le Pont de Claix       | Vhahwerion | X          |
 | 5   | Zerbi        | Pierrick | 38  | Rillieux La Pape       | GreLAN     |            |
 | 6   | Tenko        | Antoine  | 33  | Annecy                 |            |            |
 | 7   | Zol          | Olivier  | 53  | Lyon                   | FSF        |            |
+| 8   | La Mort      | Victor   | 42  | Grenoble               | Gre        |            |
