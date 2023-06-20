@@ -5,13 +5,15 @@ draft: false
 layout: single
 type: _default
 ---
+> # <FONT COLOR=Red> **ANNULATION de la GreLAN 22 - ANNULATION de la GreLAN 22** </FONT>
+
 La **GreLAN 22** du vendredi 23 juin 20h au dimanche 25 juin 2023 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
 Prix de **25€** par participant.
 
-***<FONT COLOR=Red>Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).</FONT>***
+***Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).***
 
 Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
 
