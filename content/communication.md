@@ -20,7 +20,7 @@ type: _default
 
 **Voici une autre liste des sites web de LAN Party dans la région Rhône Alpes, info sur les forums de ces sites :**  
 
-1 - [Team-AZERTY](https://www.team-azerty.com/lan-externes/ggw-21-t4065.html), proche de Vienne (en Isère-38) au sud de Lyon.  
+1 - [Team-AZERTY](https://www.team-azerty.com/forum/viewtopic.php?t=4086), proche de Vienne (en Isère-38) au sud de Lyon.  
 
 2 - [www.rom-game.fr](https://www.rom-game.fr/agenda/6324-Grelan+2023+-+21eme+edition+de+la+Lan+Party+Grenobloise.html), site de référence du retrogaming.\
 &nbsp;
