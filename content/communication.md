@@ -11,7 +11,7 @@ type: _default
 
 2 - Evénement [Facebook](https://www.facebook.com/events/804189234742652) de la GreLAN 22'.  
 
-3 - Événement [Alentoor](https://www.alentoor.fr/saint-martin-le-vinoux/agenda/4112265-lan-party-grelan-game-week-end-21-ou-ggw-21) : Tout autour de vous.  
+3 - Événement [Alentoor](https://www.alentoor.fr/saint-martin-le-vinoux/agenda/4465261-lan-party-fun-dans-le-bassin-grenoblois-grelan-game-week-end-22-ou-ggw-22) : Tout autour de vous.  
 
 4 - Événement [l’Agenda des sorties](https://www.agenda-des-sorties.com/detail.php?id=260511): Trouver des idées de sorties autour de chez vous.  
 
