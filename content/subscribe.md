@@ -13,7 +13,7 @@ Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 
 
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir L'association).
 
-Inscriptions validées manuellement à la réception du payement.[^1]
+Inscriptions validées manuellement à la réception du payement.
 
 ## Formulaire d'inscription:
 
