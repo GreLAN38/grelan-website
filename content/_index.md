@@ -5,15 +5,15 @@ draft: false
 layout: single
 type: _default
 ---
-> # <FONT COLOR=Red> **ANNULATION de la GreLAN 22 - ANNULATION de la GreLAN 22** </FONT>
+> # <FONT COLOR=Red> **GreLAN 22'** </FONT>
 
-La **GreLAN 22** du vendredi 23 juin 20h au dimanche 25 juin 2023 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
+La **GreLAN 22'** du vendredi 26 janvier 20h au dimanche 28 janvier 2024 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
 Prix de **25€** par participant.
 
-***Fin des inscriptions sur internet une semaine avant la GreLAN 22 (soit le lundi 19 juin).***
+***Fin des inscriptions sur internet une semaine avant la GreLAN 22' (soit le lundi 22 janvier).***
 
 Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
 
@@ -33,7 +33,7 @@ Comme toutes les LAN il faut apporter son matériel :
 * un câble Ethernet RJ-45 droit de "cinq mètres minimum" 
 * un casque ou des écouteurs, car les enceintes sont interdites. 
 
-Si vous aves peur d'oublier du matériel vérifier ce que vous avez prévu par rapport à la [Check-list](/check-list.pdf).
+Si vous avez peur d'oublier du matériel vérifier ce que vous avez prévu par rapport à la [Check-list](/check-list.pdf).
 
 &nbsp;
 
