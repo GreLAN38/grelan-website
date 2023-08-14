@@ -5,7 +5,7 @@ draft: false
 layout: single
 type: _default
 ---
-> # <FONT COLOR=Red> **GreLAN 22'** </FONT>
+> # <FONT COLOR=Red> **GreLAN 22'**, LAN Party fun dans le bassin Grenoblois </FONT>
 
 La **GreLAN 22'** du vendredi 26 janvier 20h au dimanche 28 janvier 2024 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
