@@ -11,26 +11,24 @@ Si vous avez de meilleurs images que celles qui y sont déjà, merci de me les e
 
 Ces premiers jeux sont gratuits et/ou libre de droits:
 
-* **Team Fortress 2**
-* **Track Mania Nation Forever**
 * **Open TTD - Open Transport Tycoon Deluxe**
 * **StarCraft II**
+* **Team Fortress 2**
+* **Track Mania Nation Forever**
 
 Cette seconde liste de jeux sont les plus joués en LAN Party, mais elle n'est pas à jour :
 
-* Age of Empire 4
-
-* Battle Field 2
-* Blur
-* Call Of Duty 4
-* Call Of Duty 5
-* Chivalry
-* Counter-Strike : Source
-* Counter-Strike 1.6
-
-* Deep Rock Galactic
-* Quake III Arena
-* Warcraft 3
-* WreckFest
+* **Age of Empire 4**
+* **Battle Field 2**
+* **Blur**
+* **Call Of Duty 4**
+* **Call Of Duty 5**
+* **Chivalry**
+* **Counter-Strike : Source**
+* **Counter-Strike 1.6**
+* **Deep Rock Galactic**
+* **Quake III Arena**
+* **Warcraft 3**
+* **WreckFest**
 
 Plus les jeux que vous avez déjà installés sur vos PC et jouable en multi-joueurs.
