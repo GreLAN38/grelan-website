@@ -27,6 +27,7 @@ Cette seconde liste de jeux sont les plus joués en LAN Party, mais elle n'est p
 * **Counter-Strike : Source**
 * **Counter-Strike 1.6**
 * **Deep Rock Galactic**
+* **Golf it !**
 * **Quake III Arena**
 * **Warcraft 3**
 * **WreckFest**
