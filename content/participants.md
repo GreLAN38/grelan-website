@@ -9,7 +9,7 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 22') du vendredi 26 
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 0 joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment 2 joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
 &nbsp;
 
