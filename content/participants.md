@@ -16,3 +16,4 @@ Nous sommes pour le moment 0 joueurs sur un nombre de place limité à **25**. E
 | N°  | Pseudo   | Prénom  | Age | Ville                  | Team   | Cotisation |
 | --- | -------- | ------- | --- | ---------------------- | ------ | ---------- |
 | 1   | MEPHISTO | Florian | 40  | Saint Martin Le Vinoux | GreLAN |            |
+| 2   | Tartiflettor | Yann    | 35  | La Tronche | GreLAN |            |
