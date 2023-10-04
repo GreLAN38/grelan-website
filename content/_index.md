@@ -1,5 +1,5 @@
 ---
-title: Acceuil
+title: Accueil
 date: 2023-03-21T21:12:56+01:00
 draft: false
 layout: single
