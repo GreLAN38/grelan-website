@@ -15,7 +15,7 @@ type: _default
 
 4 - Événement [l’Agenda des sorties](https://www.agenda-des-sorties.com/detail.php?id=273595): Trouver des idées de sorties autour de chez vous.  
 
-5 - Événement [E-Territoire](https://www.eterritoire.fr//evenements/auvergne-rhone-alpes/isere/saint-martin-le-vinoux(38950)/lan+party+%3A+grelan+game+week-end+%2321%E2%80%B2+ou+%C2%AB+ggw%2321%E2%80%B2+%C2%BB/61213): La plateforme de promotion des territoires.\
+5 - Événement [E-Territoire](http://www.eterritoire.fr//evenements/auvergne-rhone-alpes/isere/saint-martin-le-vinoux(38950)/lan+party+%3A+grelan+game+week-end+%2322%E2%80%B2+ou+%C2%AB+ggw%2322%E2%80%B2+%C2%BB/72117): La plateforme de promotion des territoires.\
 &nbsp;
 
 **Voici une autre liste des sites web de LAN Party dans la région Rhône Alpes, info sur les forums de ces sites :**  
