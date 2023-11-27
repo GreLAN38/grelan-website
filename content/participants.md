@@ -9,7 +9,7 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 22') du vendredi 26 
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 3 joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment 4 joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
 &nbsp;
 
@@ -17,4 +17,5 @@ Nous sommes pour le moment 3 joueurs sur un nombre de place limité à **25**. E
 | --- | ------------ | ------- | --- | ---------------------- | ------ | ---------- |
 | 1   | MEPHISTO     | Florian | 40  | Saint Martin Le Vinoux | GreLAN |            |
 | 2   | Tartiflettor | Yann    | 35  | La Tronche             | GreLAN |            |
-| 3   | LaMort | Victor | 42 | Grenoble             | GreLAN |            |
+| 3   | LaMort       | Victor  | 42  | Grenoble               | GreLAN |            |
+| 3   | Zerbi        | Pierrick  | 39 | Rillieux le Pape               | GreLAN |            |
