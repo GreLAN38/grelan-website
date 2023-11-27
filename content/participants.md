@@ -13,9 +13,9 @@ Nous sommes pour le moment 4 joueurs sur un nombre de place limité à **25**. E
 
 &nbsp;
 
-| N°  | Pseudo       | Prénom  | Age | Ville                  | Team   | Cotisation |
-| --- | ------------ | ------- | --- | ---------------------- | ------ | ---------- |
-| 1   | MEPHISTO     | Florian | 40  | Saint Martin Le Vinoux | GreLAN |            |
-| 2   | Tartiflettor | Yann    | 35  | La Tronche             | GreLAN |            |
-| 3   | LaMort       | Victor  | 42  | Grenoble               | GreLAN |            |
-| 3   | Zerbi        | Pierrick  | 39 | Rillieux le Pape               | GreLAN |            |
+| N°  | Pseudo       | Prénom   | Age | Ville                  | Team   | Cotisation |
+| --- | ------------ | -------- | --- | ---------------------- | ------ | ---------- |
+| 1   | MEPHISTO     | Florian  | 40  | Saint Martin Le Vinoux | GreLAN |            |
+| 2   | Tartiflettor | Yann     | 35  | La Tronche             | GreLAN |            |
+| 3   | LaMort       | Victor   | 42  | Grenoble               | GreLAN |            |
+| 4   | Zerbi        | Pierrick | 39  | Rillieux le Pape       | GreLAN |            |
