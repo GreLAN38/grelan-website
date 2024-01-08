@@ -19,6 +19,6 @@ Nous sommes pour le moment 7 joueurs sur un nombre de place limité à **25**. E
 | 2   | Tartiflettor | Yann     | 35  | La Tronche             | GreLAN |            |
 | 3   | LaMort       | Victor   | 42  | Grenoble               | GreLAN |            |
 | 4   | Zerbi        | Pierrick | 39  | Rillieux le Pape       | GreLAN |            |
-| 5   | Seth      | Julien | 39  | St Martin Le Vinoux       | GreLAN |   
-| 6   | Jarod_tp7      | Enzo| 22  | Annecy       | |   
-| 7   | Mathis38360 | Mathis | 13  | Grenoble       | |   
+| 5   | Seth      | Julien | 39  | St Martin Le Vinoux       | GreLAN |   |
+| 6   | Jarod_tp7      | Enzo| 22  | Annecy       | |   |
+| 7   | Mathis38360 | Mathis | 13  | Grenoble       | |   |
