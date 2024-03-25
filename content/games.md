@@ -11,11 +11,15 @@ Si vous avez de meilleurs images que celles qui y sont déjà, merci de me les e
 
 Ces premiers jeux sont gratuits et/ou libre de droits:
 
-* **Open TTD - Open Transport Tycoon Deluxe**
+* **Fortnite**
+* **League of Legends**
 * **StarCraft II**
 * **Team Fortress 2**
 * **Track Mania Nation Forever**
 * **Counter-Strike 2**
+* **Open TTD - Open Transport Tycoon Deluxe**
+
+
 
 Cette seconde liste de jeux sont les plus joués en LAN Party, mais elle n'est pas à jour :
 
