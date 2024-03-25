@@ -5,23 +5,23 @@ draft: false
 layout: single
 type: _default
 ---
-> # <FONT COLOR=Red> **GreLAN 22'**, LAN Party fun dans le bassin Grenoblois </FONT>
+> # <FONT COLOR=Red> **GreLAN 2024**, LAN Party fun dans le bassin Grenoblois </FONT>
 
-La **GreLAN 22'** du vendredi 26 janvier 20h au dimanche 28 janvier 2024 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
+La **GreLAN 2024** du vendredi 24 mai 20h au dimanche 26 mai 2024 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
 Prix de **25€** par participant.
 
-***Fin des inscriptions sur internet une semaine avant la GreLAN 22' (soit le lundi 22 janvier).***
+***Fin des inscriptions sur internet une semaine avant la GreLAN 2024 (soit le lundi 20 mai).***
 
 Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
 
-Rib sur demande par mail.
+Rib sur demande par mail : grelan38@gmail.com
 
 &nbsp;
 
-Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
+Places limitées à 20, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
 
 Inscriptions validées manuellement à la réception du payement.
 
