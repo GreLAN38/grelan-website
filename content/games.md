@@ -15,6 +15,7 @@ Ces premiers jeux sont gratuits et/ou libre de droits:
 * **StarCraft II**
 * **Team Fortress 2**
 * **Track Mania Nation Forever**
+* **Counter-Strike 2**
 
 Cette seconde liste de jeux sont les plus joués en LAN Party, mais elle n'est pas à jour :
 
