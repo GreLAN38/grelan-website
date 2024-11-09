@@ -9,7 +9,7 @@ type: _default
 
 1 - Page [Facebook](https://www.facebook.com/groups/GreLAN38/) de l'association GreLAN.  
 
-2 - Evénement [Facebook](https://www.facebook.com/events/804189234742652) de la GreLAN 25.  
+2 - Evénement [Facebook](https://www.facebook.com/events/558761023418436) de la GreLAN 25.  
 
 3 - Événement [LinkedIn](https://www.linkedin.com/events/7261120756393082880) de la GreLAN 25.  
 
