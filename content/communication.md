@@ -9,13 +9,10 @@ type: _default
 
 1 - Page [Facebook](https://www.facebook.com/groups/GreLAN38/) de l'association GreLAN.  
 
-2 - Evénement [Facebook](https://www.facebook.com/events/804189234742652) de la GreLAN 22'.  
+2 - Evénement [Facebook](https://www.facebook.com/events/804189234742652) de la GreLAN 25.  
 
-3 - Événement [Alentoor](https://www.alentoor.fr/saint-martin-le-vinoux/agenda/4465261-lan-party-fun-dans-le-bassin-grenoblois-grelan-game-week-end-22-ou-ggw-22) : Tout autour de vous.  
+3 - Événement [LinkedIn](https://www.linkedin.com/events/7261120756393082880) de la GreLAN 25.  
 
-4 - Événement [l’Agenda des sorties](https://www.agenda-des-sorties.com/detail.php?id=273595): Trouver des idées de sorties autour de chez vous.  
-
-5 - Événement [E-Territoire](http://www.eterritoire.fr//evenements/auvergne-rhone-alpes/isere/saint-martin-le-vinoux(38950)/lan+party+%3A+grelan+game+week-end+%2322%E2%80%B2+ou+%C2%AB+ggw%2322%E2%80%B2+%C2%BB/72117): La plateforme de promotion des territoires.\
 &nbsp;
 
 **Voici une autre liste des sites web de LAN Party dans la région Rhône Alpes, info sur les forums de ces sites :**  
