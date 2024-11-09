@@ -7,7 +7,7 @@ type: _default
 ---
 > # <FONT COLOR=Red> **GreLAN 2025**, LAN Party fun dans le bassin Grenoblois </FONT>
 
-La **GreLAN 2025** du vendredi 14 mars 20h au dimanche 16 mars 20254 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
+La **GreLAN 2025** du vendredi 14 mars 20h au dimanche 16 mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
