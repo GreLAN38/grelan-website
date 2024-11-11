@@ -5,11 +5,11 @@ draft: false
 layout: single
 type: _default
 ---
-La GreLAN 2024 du vendredi 24 mai 20h au dimanche 26  mai 2024 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana. Voir plan ici.
+La GreLAN 2025 du vendredi 14 mars 20h au dimanche 16  mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana. Voir plan ici.
 
-Prix de 25€ par participant.
+Prix de 20€ par participant.
 
-Fin des inscriptions sur internet une semaine avant la GreLAN 2024 (soit le lundi 20 mai).
+Fin des inscriptions sur internet une semaine avant la GreLAN 2025 (soit le lundi 10 mars).
 
 Places limitées à 20, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir L'association).
 
