@@ -9,7 +9,7 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 16 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 4 joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment **4** joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
 
 Mise à jour du site le 13/11/2024 à 22h00
 &nbsp;
