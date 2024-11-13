@@ -12,7 +12,6 @@ Cette liste est mise à jour manuellement par le staff, plus d'une fois par sema
 Nous sommes pour le moment 4 joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
 
 Mise à jour du site le 13/11/2024 à 22h00
-
 &nbsp;
 
 | N°  | Pseudo   | Prénom  | Age | Ville                  | Team   | Cotisation |
