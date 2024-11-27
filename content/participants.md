@@ -9,7 +9,7 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 16 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment **4** joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment **6** joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
 
 Mise à jour du site le 13/11/2024 à 22h00
 &nbsp;
@@ -19,4 +19,6 @@ Mise à jour du site le 13/11/2024 à 22h00
 | 1   | MEPHISTO | Florian | 41  | Saint Martin Le Vinoux | GreLAN |            |
 | 2   | ZERBI | Pierrick | 40  | Rillieux la Pape | GreLAN |            |
 | 3   | JAROD_TP7 | Enzo | 23  | Annecy | GreLAN |            |
-| 4   | ANTARES | Julien | 41  | Saint Martin Le Vinoux | Siber |            |
+| 4   | ANTARES | Julien | 41  | Thusy | Siber |            |
+| 5   | KHRADYS | Tiphaine | 40  | La Batch | GreLAN |            |
+| 6   | JP-ANADVIL | Jean-Philippe | 39  | Aix les Bains | GREL@N |            |
