@@ -5,7 +5,7 @@ draft: false
 layout: single
 type: _default
 ---
-Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 16 mars 20h au dimanche 18 mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.  
+Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 14 mars 20h au dimanche 16 mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.  
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
@@ -14,11 +14,11 @@ Nous sommes pour le moment **6** joueurs sur un nombre de place limité à **20*
 Mise à jour du site le 13/11/2024 à 22h00
 &nbsp;
 
-| N°  | Pseudo   | Prénom  | Age | Ville                  | Team   | Cotisation |
-| --- | -------- | ------- | --- | ---------------------- | ------ | ---------- |
-| 1   | MEPHISTO | Florian | 41  | Saint Martin Le Vinoux | GreLAN |            |
-| 2   | ZERBI | Pierrick | 40  | Rillieux la Pape | GreLAN |            |
-| 3   | JAROD_TP7 | Enzo | 23  | Annecy | GreLAN |            |
-| 4   | ANTARES | Julien | 41  | Thusy | Siber |            |
-| 5   | KHRADYS | Tiphaine | 40  | La Batch | GreLAN |            |
-| 6   | JP-ANADVIL | Jean-Philippe | 39  | Aix les Bains | GREL@N |            |
+| N°  | Pseudo     | Prénom        | Age | Ville                  | Team   | Cotisation |
+| --- | ---------- | ------------- | --- | ---------------------- | ------ | ---------- |
+| 1   | MEPHISTO   | Florian       | 41  | Saint Martin Le Vinoux | GreLAN |            |
+| 2   | ZERBI      | Pierrick      | 40  | Rillieux la Pape       | GreLAN |            |
+| 3   | JAROD_TP7  | Enzo          | 23  | Annecy                 | GreLAN |            |
+| 4   | ANTARES    | Julien        | 41  | Thusy                  | Siber  |            |
+| 5   | KHRADYS    | Tiphaine      | 40  | La Batch               | GreLAN |            |
+| 6   | JP-ANADVIL | Jean-Philippe | 39  | Aix les Bains          | GREL@N |            |
