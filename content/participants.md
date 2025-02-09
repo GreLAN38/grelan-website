@@ -25,3 +25,9 @@ Mise à jour du site le 09/02/2024 à 21h00
 | 7   | JP-ANADVIL  | Jean-Philippe | 39  | Aix les Bains          | GREL@N      |            |
 | 8   | DIOTosaurus | Yann          | 36  | La Tronche             | SiberGreLan |            |
 | 9   | NEILGE      | Adrien        | 34  | Le Pont de Claix       | GreLAN      |            |
+| 10   | Viand0x      | Stephane        | 32  | Meylan       |       |            |
+| 11   | Skeelu      | Antoine        | 30  | Grenoble       |       |            |
+| 12   | Rackham_Bcm      | Adrien        | 32  | Lumbin       |       |            |
+| 13   | Didiwha      | Laidi        | 33  | La Tronche       | Brasserie      |            |
+| 14   | Macyprine      | Maxime        | 32  | Lausanne       |       |            |
+| 15   | Yacou      | Henri        | 32  | Grenoble       |       |            |
