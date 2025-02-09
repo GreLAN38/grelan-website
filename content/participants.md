@@ -9,19 +9,19 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 14 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment **9** joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment **15** joueurs sur un nombre de place limité à **20**. Et seulement **0** qui ont payé.
 
-Mise à jour du site le 13/11/2024 à 22h00
+Mise à jour du site le 09/02/2024 à 21h00
 &nbsp;
 
-| N°  | Pseudo     | Prénom        | Age | Ville                  | Team   | Cotisation |
-| --- | ---------- | ------------- | --- | ---------------------- | ------ | ---------- |
-| 1   | MEPHISTO   | Florian       | 41  | Saint Martin Le Vinoux | GreLAN |            |
-| 2   | ZERBI      | Pierrick      | 40  | Rillieux la Pape       | GreLAN |            |
-| 3   | LAMORT     | Victor        | 43  | Grenoble               | GreLAN |            |
-| 4   | JAROD_TP7  | Enzo          | 23  | Annecy                 | GreLAN |            |
-| 5   | ANTARES    | Julien        | 41  | Thusy                  | Siber  |            |
-| 6   | KHRADYS    | Tiphaine      | 40  | La Batch               | GreLAN |            |
-| 7   | JP-ANADVIL | Jean-Philippe | 39  | Aix les Bains          | GREL@N |            |
-| 8   | DIOTosaurus| Yann         | 36  | La Tronche          | SiberGreLan |          |
-| 9   | NEILGE     | Adrien        | 34  | Le Pont de Claix          | GreLAN |            |
+| N°  | Pseudo      | Prénom        | Age | Ville                  | Team        | Cotisation |
+| --- | ----------- | ------------- | --- | ---------------------- | ----------- | ---------- |
+| 1   | MEPHISTO    | Florian       | 41  | Saint Martin Le Vinoux | GreLAN      |            |
+| 2   | ZERBI       | Pierrick      | 40  | Rillieux la Pape       | GreLAN      |            |
+| 3   | LAMORT      | Victor        | 43  | Grenoble               | GreLAN      |            |
+| 4   | JAROD_TP7   | Enzo          | 23  | Annecy                 | GreLAN      |            |
+| 5   | ANTARES     | Julien        | 41  | Thusy                  | Siber       |            |
+| 6   | KHRADYS     | Tiphaine      | 40  | La Batch               | GreLAN      |            |
+| 7   | JP-ANADVIL  | Jean-Philippe | 39  | Aix les Bains          | GREL@N      |            |
+| 8   | DIOTosaurus | Yann          | 36  | La Tronche             | SiberGreLan |            |
+| 9   | NEILGE      | Adrien        | 34  | Le Pont de Claix       | GreLAN      |            |
