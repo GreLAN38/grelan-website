@@ -21,7 +21,7 @@ Rib sur demande par mail : grelan38@gmail.com
 
 &nbsp;
 
-Places limitées à 20, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
+Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
 
 Inscriptions validées manuellement à la réception du payement.
 
