@@ -52,12 +52,12 @@ Inscriptions validées manuellement à la réception du payement.
       <input type="text" name="phone" size="20" maxlength="50" placeholder="Votre Numéro de téléphone"/>
     </p>
     <p>
-      <label>Type de PC<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</label>
+      <label>Type de PC <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>:</label>
       <input type="radio" name="type" id="typeChoice1" value="Desktop" checked/> PC fixe
       <input type="radio" name="type" id="typeChoice2" value="Laptop"/> PC portable
     </p>
     <p>
-     <label for="secouristeCheckBox">Je possède l'attestation PSC1<sup id="fnref:2"><a href="#fn:2"   class="footnote-ref" role="doc-noteref">2</a></sup>:</label>
+     <label for="secouristeCheckBox">Je possède l'attestation PSC1 ou je suis SST <sup id="fnref:2"><a href="#fn:2"   class="footnote-ref" role="doc-noteref">2</a></sup>:</label>
      <input type="hidden" name="secouriste" id="secouristeHidden" value="Non"/>
      <input type="checkbox" name="secouriste" id="secouristeCheckBox" value="Oui"/>
     </p>
