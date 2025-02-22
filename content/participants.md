@@ -9,28 +9,29 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 14 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment **18** joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment **19** joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
-Mise à jour du site le 09/02/2024 à 21h00
+Mise à jour du site le 22/02/2024 à 13h30
 &nbsp;
 
-| N°  | Pseudo      | Prénom        | Age | Ville                    | Team        | Cotisation |
-| --- | ----------- | ------------- | --- | ------------------------ | ----------- | ---------- |
-| 1   | MEPHISTO    | Florian       | 41  | Saint Martin Le Vinoux   | GreLAN      |            |
-| 2   | ZERBI       | Pierrick      | 40  | Rillieux la Pape         | GreLAN      |            |
-| 3   | LAMORT      | Victor        | 43  | Grenoble                 | GreLAN      |            |
-| 4   | JAROD_TP7   | Enzo          | 23  | Annecy                   | GreLAN      |            |
-| 5   | ANTARES     | Julien        | 41  | Thusy                    | Siber       |            |
-| 6   | KHRADYS     | Tiphaine      | 40  | La Batch                 | GreLAN      |            |
-| 7   | JP-ANADVIL  | Jean-Philippe | 39  | Aix les Bains            | GREL@N      |            |
-| 8   | DIOTosaurus | Yann          | 36  | La Tronche               | SiberGreLan |            |
-| 9   | NEILGE      | Adrien        | 34  | Le Pont de Claix         | GreLAN      |            |
-| 10  | Viand0x     | Stephane      | 32  | Meylan                   |             |            |
-| 11  | Skeelu      | Antoine       | 30  | Grenoble                 |             |            |
-| 12  | Rackham_Bcm | Adrien        | 32  | Lumbin                   |             |            |
-| 13  | Didiwha     | Laidi         | 33  | La Tronche               | Brasserie   |            |
-| 14  | Macyprine   | Maxime        | 32  | Lausanne                 |             |            |
-| 15  | Yacou       | Henri         | 32  | Grenoble                 |             |            |
-| 16  | Cuswel      | Florentin     | 26  | Jarrie                   |             |            |
-| 17  | Astra       | François      | 28  | Saint-julien en Genevois | Vhahwerion  |            |
-| 18  | Berserker666 | Fabien | 54  | Echirolles | Alfa  |            |
+| N°  | Pseudo       | Prénom        | Age | Ville                    | Team        | Cotisation |
+| --- | ------------ | ------------- | --- | ------------------------ | ----------- | ---------- |
+| 1   | MEPHISTO     | Florian       | 41  | Saint Martin Le Vinoux   | GreLAN      |            |
+| 2   | ZERBI        | Pierrick      | 40  | Rillieux la Pape         | GreLAN      |            |
+| 3   | LAMORT       | Victor        | 43  | Grenoble                 | GreLAN      |            |
+| 4   | JAROD_TP7    | Enzo          | 23  | Annecy                   | GreLAN      |            |
+| 5   | ANTARES      | Julien        | 41  | Thusy                    | Siber       |            |
+| 6   | KHRADYS      | Tiphaine      | 40  | La Batch                 | GreLAN      |            |
+| 7   | JP-ANADVIL   | Jean-Philippe | 39  | Aix les Bains            | GREL@N      |            |
+| 8   | DIOTosaurus  | Yann          | 36  | La Tronche               | SiberGreLan |            |
+| 9   | NEILGE       | Adrien        | 34  | Le Pont de Claix         | GreLAN      |            |
+| 10  | Viand0x      | Stephane      | 32  | Meylan                   |             |            |
+| 11  | Skeelu       | Antoine       | 30  | Grenoble                 |             |            |
+| 12  | Rackham_Bcm  | Adrien        | 32  | Lumbin                   |             |            |
+| 13  | Didiwha      | Laidi         | 33  | La Tronche               | Brasserie   |            |
+| 14  | Macyprine    | Maxime        | 32  | Lausanne                 |             |            |
+| 15  | Yacou        | Henri         | 32  | Grenoble                 |             |            |
+| 16  | Cuswel       | Florentin     | 26  | Jarrie                   |             |            |
+| 17  | Astra        | François      | 28  | Saint-julien en Genevois | Vhahwerion  |            |
+| 18  | Berserker666 | Fabien        | 54  | Echirolles               | Alfa        |            |
+| 19  | Poulpepatine | Arthur        | 27  | Dijon               | Alfa        |            |
