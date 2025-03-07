@@ -9,9 +9,9 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 25) du vendredi 14 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment **19** joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
+Nous sommes pour le moment **20** joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
-Mise à jour du site le 22/02/2024 à 13h30
+Mise à jour du site le 07/03/2024 à 6h50
 &nbsp;
 
 | N°  | Pseudo       | Prénom        | Age | Ville                    | Team        | Cotisation |
@@ -35,3 +35,4 @@ Mise à jour du site le 22/02/2024 à 13h30
 | 17  | Astra        | François      | 28  | Saint-julien en Genevois | Vhahwerion  |            |
 | 18  | Berserker666 | Fabien        | 54  | Echirolles               | Alfa        |            |
 | 19  | Poulpepatine | Arthur        | 27  | Dijon               | Alfa        |            |
+| 20  | Falsan | Maxime    | 32  | Grenoble     | |            |
