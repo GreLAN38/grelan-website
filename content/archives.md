@@ -9,22 +9,22 @@ Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 20
 
 | N°  | Pseudo | Prénom | Age | Ville |
 | --- | --- | --- | --- | --- |
-| 1   | MEPHISTO | Florian | 39  | Saint Martin Le Vinoux |
-| 2   | Lamort | Victor | 41  | Grenoble |
-| 3   | Antares | Julien | 39  | Thusy |
-| 4   | Tenko | Antoine | 33  | Annecy |
-| 5   | Seth | Julien | 38  | Saint Martin Le Vinoux |
-| 6   | Zerbi | Pierrick | 38  | Rillieux La Pape |
-| 7   | Tartiflettor | Yann | 37  | La Tronche |
-| 8   | Jarod_tp7 | Enzo | 21  | Lyon |
-| 9   | Berserker6666 | Fabien | 52  | Echirolles |
-| 10  | Khradys | Tiphaine | 38  | Saint Paul sur Isère |
-| 11  | JpAnadvil | Jean-Philippe | 38  | Aix les Bains |
-| 12  | Malaucrane/Sebgomis | Sébastien | 32  | Frejus |
-| 13  | Srhtst420 | Sarah-Rose | 21  | Grenoble |
-| 14  | bobolebonbonobo | Luca | 24  | La Buisse |
-| 15  | DarkMantis | Alexis | 33  | Vers Pont Du Gard |
-| 16  | Polo / Yorokois | Paul-Louis | 26  | Chambéry |
+| 1   | ZERBI        | Pierrick      | 40  | Rillieux la Pape |
+| 2   | LAMORT       | Victor        | 43  | Grenoble         |
+| 3   | JAROD_TP7    | Enzo          | 23  | Annecy           |
+| 4   | ANTARES      | Julien        | 41  | Thusy            |
+| 5   | KHRADYS      | Tiphaine      | 40  | La Batch         |
+| 6   | JP-ANADVIL   | Jean-Philippe | 39  | Aix les Bains    |
+| 7   | NEILGE       | Adrien        | 34  | Le Pont de Claix |
+| 8  | Viand0x       | Stephane      | 32  | Meylan           |
+| 9  | Skeelu        | Antoine       | 30  | Grenoble         | 
+| 10  | Rackham_Bcm  | Adrien        | 32  | Lumbin           |
+| 11  | Didiwha      | Laidi         | 33  | La Tronche       |
+| 12  | Macyprine    | Maxime        | 32  | Lausanne         |
+| 13  | Yacou        | Henri         | 32  | Grenoble         |
+| 14  | Berserker666 | Fabien        | 54  | Echirolles       |
+| 15  | Poulpepatine | Arthur        | 27  | Dijon            |
+| 16  | DarkMantis   | Alexis        | 36  | Draguignan       |
 
 &nbsp;
 
