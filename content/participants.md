@@ -11,7 +11,7 @@ Cette liste est mise à jour manuellement par le staff, plus d'une fois par sema
 
 Nous sommes pour le moment **20** joueurs sur un nombre de place limité à **25**. Et seulement **0** qui ont payé.
 
-Mise à jour du site le 07/03/2024 à 6h50
+Mise à jour du site le 17/03/2024 à 21h40
 &nbsp;
 
 | N°  | Pseudo       | Prénom        | Age | Ville                    | Team        | Cotisation |
@@ -34,5 +34,7 @@ Mise à jour du site le 07/03/2024 à 6h50
 | 16  | Cuswel       | Florentin     | 26  | Jarrie                   |             |            |
 | 17  | Astra        | François      | 28  | Saint-julien en Genevois | Vhahwerion  |            |
 | 18  | Berserker666 | Fabien        | 54  | Echirolles               | Alfa        |            |
-| 19  | Poulpepatine | Arthur        | 27  | Dijon               | Alfa        |            |
-| 20  | Falsan | Maxime    | 32  | Grenoble     | |            |
+| 19  | Poulpepatine | Arthur        | 27  | Dijon                    | Alfa        |            |
+| 20  | Falsan       | Maxime        | 32  | Grenoble                 |             |            |
+|
+| 20  | DarkMantis | Alexis | 36  | Draguignan |             |            |
