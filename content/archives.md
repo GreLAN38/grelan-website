@@ -5,8 +5,32 @@ draft: false
 layout: single
 type: _default
 ---
+Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 2024 (dérnière GreLAN) :
 
-Voici la liste des **16** participants de la **GreLAN 21'** le WE du 18 mars 2023 (dérnière GreLAN) :
+| N°  | Pseudo | Prénom | Age | Ville |
+| --- | --- | --- | --- | --- |
+| 1   | MEPHISTO | Florian | 39  | Saint Martin Le Vinoux |
+| 2   | Lamort | Victor | 41  | Grenoble |
+| 3   | Antares | Julien | 39  | Thusy |
+| 4   | Tenko | Antoine | 33  | Annecy |
+| 5   | Seth | Julien | 38  | Saint Martin Le Vinoux |
+| 6   | Zerbi | Pierrick | 38  | Rillieux La Pape |
+| 7   | Tartiflettor | Yann | 37  | La Tronche |
+| 8   | Jarod_tp7 | Enzo | 21  | Lyon |
+| 9   | Berserker6666 | Fabien | 52  | Echirolles |
+| 10  | Khradys | Tiphaine | 38  | Saint Paul sur Isère |
+| 11  | JpAnadvil | Jean-Philippe | 38  | Aix les Bains |
+| 12  | Malaucrane/Sebgomis | Sébastien | 32  | Frejus |
+| 13  | Srhtst420 | Sarah-Rose | 21  | Grenoble |
+| 14  | bobolebonbonobo | Luca | 24  | La Buisse |
+| 15  | DarkMantis | Alexis | 33  | Vers Pont Du Gard |
+| 16  | Polo / Yorokois | Paul-Louis | 26  | Chambéry |
+
+&nbsp;
+
+
+
+Voici la liste des **16** participants de la **GreLAN 21'** le WE du 18 mars 2023 :
 
 | N°  | Pseudo | Prénom | Age | Ville |
 | --- | --- | --- | --- | --- |
