@@ -23,7 +23,7 @@ Ces premiers jeux sont gratuits et/ou libre de droits:
 Cette seconde liste de jeux sont les plus joués en LAN Party, mais elle n'est pas à jour :
 
 * **Age of Empire 4**
-* **Battle Field 2**
+* **Battle Field 3**
 * **Battle Field 4**
 * **Blur**
 * **Call Of Duty 4**
