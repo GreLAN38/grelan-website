@@ -5,17 +5,17 @@ draft: false
 layout: single
 type: _default
 ---
-> # <FONT COLOR=Red> **GreLAN 2025**, LAN Party fun dans le bassin Grenoblois </FONT>
+> # <FONT COLOR=Red> **GreLAN 2026**, LAN Party fun dans le bassin Grenoblois </FONT>
 
-La **GreLAN 2025** du vendredi 14 mars 20h au dimanche 16 mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
+La **GreLAN 2026** du vendredi 27 mars 20h au dimanche 29 mars 2025 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
 Voir plan [ici](/map/).
 
 Prix de **20€** par participant.
 
-***Fin des inscriptions sur internet une semaine avant la GreLAN 2025 (soit le lundi 10 mars).***
+***Fin des inscriptions sur internet une semaine avant la GreLAN 2026 (soit le lundi 23 mars).***
 
-Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire de virement. 
+Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « Pseudo + Nom » en commentaire du virement. 
 
 Rib sur demande par mail : grelan38@gmail.com
 
