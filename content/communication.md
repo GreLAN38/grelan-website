@@ -9,7 +9,7 @@ type: _default
 
 1 - Page [Facebook](https://www.facebook.com/groups/GreLAN38/) de l'association GreLAN.  
 
-2 - Evénement [Facebook](https://www.facebook.com/events/558761023418436) de la GreLAN 25.  
+2 - Evénement [Facebook](https://www.facebook.com/events/3270217786460591) de la GreLAN 26.  
 
 3 - Événement [LinkedIn](https://www.linkedin.com/events/7261120756393082880) de la GreLAN 25.  
 
@@ -17,7 +17,7 @@ type: _default
 
 **Voici une autre liste des sites web de LAN Party dans la région Rhône Alpes, info sur les forums de ces sites :**  
 
-1 - [Team-AZERTY](https://www.team-azerty.com/forum/viewtopic.php?t=4086), proche de Vienne (en Isère-38) au sud de Lyon.  
+1 - [Team-AZERTY](http://lan.team-azerty.com), proche de Vienne (en Isère-38) au sud de Lyon.  
 
 2 - [www.rom-game.fr](https://www.rom-game.fr/agenda/6738-Grelan+2024+-+22eme+edition+de+la+Lan+Party+Grenobloise.html), site de référence du retrogaming.\
 &nbsp;
