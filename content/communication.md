@@ -19,7 +19,4 @@ type: _default
 
 1 - [Team-AZERTY](http://lan.team-azerty.com), proche de Vienne (en Isère-38) au sud de Lyon.  
 
-2 - [www.rom-game.fr](https://www.rom-game.fr/agenda/6738-Grelan+2024+-+22eme+edition+de+la+Lan+Party+Grenobloise.html), site de référence du retrogaming.\
-&nbsp;
-
 Et pour le moment c'est tout, mais on espère que vous aurez d'autres idées de communication autour d'événement sur la région grenobloise ou nationale dans la thématique des jeux-vidéos ou de l'univers Geek.
