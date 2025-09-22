@@ -14,6 +14,7 @@ Nous sommes pour le moment **0** joueurs sur un nombre de place limité à **25*
 Mise à jour du site le 16/09/2025 à 21h40
 &nbsp;
 
-| N°  | Pseudo       | Prénom        | Age | Ville            | Team      | Cotisation |
-| --- | ------------ | ------------- | --- | ---------------- | --------- | ---------- |
-| X   | XxX          | XxX           | xx  | XxX              | xx        | X          |
+| N°  | Pseudo | Prénom | Age | Ville | Team | Cotisation |
+| --- | ------ | ------ | --- | ----- | ---- | ---------- |
+| 1   | Mephisto    | Florian    | 42  | SMLV   | GreLAN   | X          |
+| 2   | Jarod_tp7   | Enzo    | 24  | Annecy   |    |           |
