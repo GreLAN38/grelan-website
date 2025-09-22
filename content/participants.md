@@ -19,4 +19,4 @@ Mise à jour du site le 22/09/2025 à 22h00
 | 1   | Mephisto  | Florian | 42  | SMLV   | GreLAN | X          |
 | 2   | Jarod_tp7 | Enzo    | 24  | Annecy |        |            |
 | 3   | Antares    | Julien | 42  | Thusy  | GreLAN |            |
-| 4   | Khradys | Tiphaine| 24  | La Batch | GreLAN |            |
+| 4   | Khradys | Tiphaine| 41  | La Batch | GreLAN |            |
