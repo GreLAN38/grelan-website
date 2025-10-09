@@ -9,9 +9,9 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 26) du vendredi 27 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 5 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
+Nous sommes pour le moment 6 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
 
-Mise à jour du site le 28/09/2025 à 22h00
+Mise à jour du site le 09/10/2025 à 21h00
 &nbsp;
 
 | N°  | Pseudo    | Prénom   | Age | Ville    | Team   | Cotisation |
@@ -21,3 +21,4 @@ Mise à jour du site le 28/09/2025 à 22h00
 | 3   | Antares   | Julien   | 42  | Thusy    | GreLAN |            |
 | 4   | Khradys   | Tiphaine | 41  | La Batch | GreLAN |            |
 | 5   | Lamort    | Victor   | 44  | Grenoble | GreLAN |            |
+| 6   | Neilge    | Adrien   | 35  | Le Pont de Claix | GreLAN |            |
