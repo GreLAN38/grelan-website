@@ -16,7 +16,7 @@ Mise à jour du site le 23/11/2025 à 21h40
 
 | N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
 | --- | ------------ | -------- | --- | ---------------- | ------------- | ---------- |
-| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | X          |
+| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | <center> X |
 | 2   | Jarod_tp7    | Enzo     | 24  | Annecy           |               |            |
 | 3   | Antares      | Julien   | 42  | Thusy            | GreLAN        |            |
 | 4   | Khradys      | Tiphaine | 41  | La Batch         | GreLAN        |            |
@@ -27,4 +27,4 @@ Mise à jour du site le 23/11/2025 à 21h40
 | 9   | Falsan       | Maxime   | 33  | Champ sur Drac   |               |            |
 | 10  | Kokoboost    | Corentin | 33  | Lumbin           | BonheurDuJour |            |
 | 11  | Poulpepatine | Arthur   | 28  | Dijon            | Alfa Laval    |            |
-| 12  | Yacou | Henri   | 33  | Le Versoud       | BonheurDuJour     |            |
+| 12  | Yacou        | Henri    | 33  | Le Versoud       | BonheurDuJour |            |
