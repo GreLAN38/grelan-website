@@ -14,17 +14,17 @@ Nous sommes pour le moment 12 joueurs sur un nombre de place limité à **25**. 
 Mise à jour du site le 23/11/2025 à 21h40
 &nbsp;
 
-| N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
-| --- | ------------ | -------- | --- | ---------------- | ------------- | ---------- |
-| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | <center> X </center> |
-| 2   | Jarod_tp7    | Enzo     | 24  | Annecy           |               |            |
-| 3   | Antares      | Julien   | 42  | Thusy            | GreLAN        |            |
-| 4   | Khradys      | Tiphaine | 41  | La Batch         | GreLAN        |            |
-| 5   | Lamort       | Victor   | 44  | Grenoble         | GreLAN        |            |
-| 6   | Neilge       | Adrien   | 35  | Le Pont de Claix | GreLAN        |            |
-| 7   | Viand0x      | Stéphane | 33  | Meylan           |               |            |
-| 8   | Skeelu       | Antoine  | 30  | Grenoble         | BonheurDuJour |            |
-| 9   | Falsan       | Maxime   | 33  | Champ sur Drac   |               |            |
-| 10  | Kokoboost    | Corentin | 33  | Lumbin           | BonheurDuJour |            |
-| 11  | Poulpepatine | Arthur   | 28  | Dijon            | Alfa Laval    |            |
-| 12  | Yacou        | Henri    | 33  | Le Versoud       | BonheurDuJour |            |
+| N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation  |
+| --- | ------------ | -------- | --- | ---------------- | ------------- | ----------- |
+| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | <center> X  |
+| 2   | Jarod_tp7    | Enzo     | 24  | Annecy           |               |             |
+| 3   | Antares      | Julien   | 42  | Thusy            | GreLAN        |             |
+| 4   | Khradys      | Tiphaine | 41  | La Batch         | GreLAN        |             |
+| 5   | Lamort       | Victor   | 44  | Grenoble         | GreLAN        |             |
+| 6   | Neilge       | Adrien   | 35  | Le Pont de Claix | GreLAN        |             |
+| 7   | Viand0x      | Stéphane | 33  | Meylan           |               |             |
+| 8   | Skeelu       | Antoine  | 30  | Grenoble         | BonheurDuJour |             |
+| 9   | Falsan       | Maxime   | 33  | Champ sur Drac   |               |             |
+| 10  | Kokoboost    | Corentin | 33  | Lumbin           | BonheurDuJour |             |
+| 11  | Poulpepatine | Arthur   | 28  | Dijon            | Alfa Laval    |             |
+| 12  | Yacou        | Henri    | 33  | Le Versoud       | BonheurDuJour |             |
