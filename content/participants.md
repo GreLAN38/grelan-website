@@ -9,21 +9,22 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 26) du vendredi 27 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 11 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
+Nous sommes pour le moment 12 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
 
-Mise à jour du site le 22/11/2025 à 12h00
+Mise à jour du site le 23/11/2025 à 21h40
 &nbsp;
 
-| N°  | Pseudo    | Prénom   | Age | Ville            | Team   | Cotisation |
-| --- | --------- | -------- | --- | ---------------- | ------ | ---------- |
-| 1   | Mephisto  | Florian  | 42  | SMLV             | GreLAN | X          |
-| 2   | Jarod_tp7 | Enzo     | 24  | Annecy           |        |            |
-| 3   | Antares   | Julien   | 42  | Thusy            | GreLAN |            |
-| 4   | Khradys   | Tiphaine | 41  | La Batch         | GreLAN |            |
-| 5   | Lamort    | Victor   | 44  | Grenoble         | GreLAN |            |
-| 6   | Neilge    | Adrien   | 35  | Le Pont de Claix | GreLAN |            |
-| 7   | Viand0x    | Stéphane| 33 | Meylan |  |            |
-| 8   | Skeelu    | Antoine   | 30  | Grenoble         | BonheurDuJour |            |
-| 9   | Falsan    | Maxime | 33  | Champ sur Drac |  |            |
-| 10   | Kokoboost | Corentin | 33  | Lumbin | BonheurDuJour |            |
-| 11  | Poulpepatine | Arthur | 28  | Dijon | Alfa Laval|            |
+| N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
+| --- | ------------ | -------- | --- | ---------------- | ------------- | ---------- |
+| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | X          |
+| 2   | Jarod_tp7    | Enzo     | 24  | Annecy           |               |            |
+| 3   | Antares      | Julien   | 42  | Thusy            | GreLAN        |            |
+| 4   | Khradys      | Tiphaine | 41  | La Batch         | GreLAN        |            |
+| 5   | Lamort       | Victor   | 44  | Grenoble         | GreLAN        |            |
+| 6   | Neilge       | Adrien   | 35  | Le Pont de Claix | GreLAN        |            |
+| 7   | Viand0x      | Stéphane | 33  | Meylan           |               |            |
+| 8   | Skeelu       | Antoine  | 30  | Grenoble         | BonheurDuJour |            |
+| 9   | Falsan       | Maxime   | 33  | Champ sur Drac   |               |            |
+| 10  | Kokoboost    | Corentin | 33  | Lumbin           | BonheurDuJour |            |
+| 11  | Poulpepatine | Arthur   | 28  | Dijon            | Alfa Laval    |            |
+| 12  | Yacou | Henri   | 33  | Le Versoud       | BonheurDuJour     |            |
