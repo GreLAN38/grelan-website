@@ -16,7 +16,7 @@ Mise à jour du site le 23/11/2025 à 21h40
 
 | N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
 | --- | ------------ | -------- | --- | ---------------- | ------------- | ---------- |
-| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | <center> X |
+| 1   | Mephisto     | Florian  | 42  | SMLV             | GreLAN        | <center> X </center> |
 | 2   | Jarod_tp7    | Enzo     | 24  | Annecy           |               |            |
 | 3   | Antares      | Julien   | 42  | Thusy            | GreLAN        |            |
 | 4   | Khradys      | Tiphaine | 41  | La Batch         | GreLAN        |            |
