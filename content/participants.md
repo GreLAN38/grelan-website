@@ -9,9 +9,9 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 26) du vendredi 27 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 13 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
+Nous sommes pour le moment 14 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
 
-Mise à jour du site le 23/11/2025 à 21h40
+Mise à jour du site le 29/12/2025 à 19h00
 &nbsp;
 
 | N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
@@ -29,3 +29,4 @@ Mise à jour du site le 23/11/2025 à 21h40
 | 11  | Poulpepatine | Arthur   | 28  | Dijon            | Alfa Laval    |            |
 | 12  | Yacou        | Henri    | 33  | Le Versoud       | BonheurDuJour |            |
 | 13  | MaxiBonk | Maxime  | 33  | Lausanne      | BonheurDuJour |            |
+| 14  | MaxiBonk | Gaëtanne | 26  | La Bathie      | GreLAN        |            |
