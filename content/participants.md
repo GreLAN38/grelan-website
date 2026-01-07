@@ -9,11 +9,11 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 26) du vendredi 27 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 18 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
+Nous sommes pour le moment 19 joueurs sur un nombre de place limité à **25**. Et seulement **1** qui ont payé.
 
-Actuellement **il ne reste que 7 places** pour arriver aux 25 maximum de la capacité de la salle, donc <Font Color=Red> **inscrivez vous vite** </Font> si vous voulez de la place.
+Actuellement **il ne reste que 6 places** pour arriver aux 25 maximum de la capacité de la salle, donc <Font Color=Red> **inscrivez vous vite** </Font> si vous voulez de la place.
 
-Mise à jour du site le 06/01/2026 à 21h00
+Mise à jour du site le 07/01/2026 à 21h00
 &nbsp;
 
 | N°  | Pseudo       | Prénom   | Age | Ville            | Team          | Cotisation |
@@ -36,3 +36,4 @@ Mise à jour du site le 06/01/2026 à 21h00
 | 16  | Apocalyps    | Jérémie  | 40  | Annecy           | LAAG          |            |
 | 17  | PanPanCuCul  | Patrick  | 40  | Annecy           | LAAG          |            |
 | 18  | Seth         | Julien   | 41  | SMLV             | GreLAN        |            |
+| 19  | Gecko        | Aurel    | 39  | Annecy           | LAAG          |            |
