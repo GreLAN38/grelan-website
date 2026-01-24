@@ -28,8 +28,6 @@ Places limitées à 25, merci de vous inscrire et en cas d'annulation de me pré
 
 Inscriptions validées manuellement à la réception du payement.
 
-&nbsp;
-
 Comme toutes les LAN il faut apporter son matériel :
 
 * Son PC équipé d’une carte réseau
