@@ -9,7 +9,10 @@ La GreLAN 26 du vendredi 27 mars 20h au dimanche 29 mars 2026 vers 13h, dans la 
 
 Prix de 20€ par participant.
 
+## Il n'y plus de place pour cette GreLAN, désolé il fallait vous inscrire plus tôt, désolé.
+<?
 Fin des inscriptions sur internet une semaine avant la GreLAN 26 (soit le lundi 23 mars).
+?>
 
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir L'association).
 
