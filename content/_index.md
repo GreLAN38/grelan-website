@@ -19,8 +19,6 @@ Virement sur notre nouveau compte Association GreLAN chez Sogexia avec votre « 
 
 Rib sur demande par mail : grelan38@gmail.com
 
-&nbsp;
-
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
 
 > # <FONT COLOR=Red>  Il n'y plus de place pour cette GreLAN, désolé, il fallait vous inscrire plus tôt, encore désolé. </FONT>
@@ -35,8 +33,6 @@ Comme toutes les LAN il faut apporter son matériel :
 * un casque ou des écouteurs, car les enceintes sont interdites. 
 
 Si vous avez peur d'oublier du matériel vérifier ce que vous avez prévu par rapport à la [Check-list](/check-list.pdf).
-
-&nbsp;
 
 Pour la nourriture, il y a possibilité d’en acheter sur place dans les commerces de proximités (pizzeria, boulangerie, etc ...).
 Généralement le **samedi soir** on prévoit de se faire **une commande groupée de pizza**, alors prévoyez un peu de **monnaie**.
