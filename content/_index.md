@@ -5,7 +5,7 @@ draft: false
 layout: single
 type: _default
 ---
-> # <FONT COLOR=Red> **GreLAN 26**, LAN Party fun dans le bassin Grenoblois </FONT>
+> ## <FONT COLOR=Red> **GreLAN 26**, LAN Party fun dans le bassin Grenoblois </FONT>
 
 La **GreLAN 26** du vendredi 27 mars 20h au dimanche 29 mars 2026 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.
 
@@ -22,6 +22,9 @@ Rib sur demande par mail : grelan38@gmail.com
 &nbsp;
 
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir [L'association](/about/)).
+
+> # <FONT COLOR=Red>  Il n'y plus de place pour cette GreLAN, désolé, il fallait vous inscrire plus tôt, encore désolé. </FONT>
+
 
 Inscriptions validées manuellement à la réception du payement.
 
