@@ -9,9 +9,9 @@ Voici la liste des inscrits pour cette nouvelle LAN (GreLAN 26) du vendredi 27 m
 
 Cette liste est mise à jour manuellement par le staff, plus d'une fois par semaine, ce qui certifie l'exactitude des renseignements et justifie le délais de mise à jour.  
 
-Nous sommes pour le moment 26 joueurs sur un nombre de place limité à **25**. Et seulement **4** qui ont payé.
+Nous sommes pour le moment 27 joueurs sur un nombre de place limité à **25**. Et seulement **4** qui ont payé.
 
-Actuellement **il ne reste que -1 places** pour arriver aux 25 maximum de la capacité de la salle.
+Actuellement **il ne reste que -2 places** pour arriver aux 25 maximum de la capacité de la salle.
 
 Mise à jour du site le 26/01/2026 à 19h45
 &nbsp;
