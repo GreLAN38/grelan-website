@@ -22,27 +22,21 @@ Voici la liste des **26** participants de la **GreLAN 2026** le WE du 28 mars 20
 | 11  | Yacou        | Henri         | 33  | Le Versoud       |
 | 12  | MaxiBonk     | Maxime        | 33  | Lausanne         |
 | 13  | Njut_73      | Gaëtanne      | 26  | La Bathie        |
-
-| 1   | ZERBI        | Pierrick      | 40  | Rillieux la Pape |
-| 3   | JAROD_TP7    | Enzo          | 23  | Annecy           |
-| 4   | ANTARES      | Julien        | 41  | Thusy            |
-| 5   | KHRADYS      | Tiphaine      | 40  | La Batch         |
-| 6   | JP-ANADVIL   | Jean-Philippe | 39  | Aix les Bains    |
-| 7   | NEILGE       | Adrien        | 34  | Le Pont de Claix |
-| 8  | Viand0x       | Stephane      | 32  | Meylan           |
-| 9  | Skeelu        | Antoine       | 30  | Grenoble         | 
-| 10  | Rackham_Bcm  | Adrien        | 32  | Lumbin           |
-| 11  | Didiwha      | Laidi         | 33  | La Tronche       |
-| 12  | Macyprine    | Maxime        | 32  | Lausanne         |
-| 13  | Yacou        | Henri         | 32  | Grenoble         |
-| 14  | Berserker666 | Fabien        | 54  | Echirolles       |
-| 15  | Poulpepatine | Arthur        | 27  | Dijon            |
-| 16  | DarkMantis   | Alexis        | 36  | Draguignan       |
+| 14  | Akkira       | Mickaël       | 32  | Chambéry         |
+| 15  | Apocalyps    | Jérémie       | 40  | Annecy           |
+| 16  | PanPanCuCul  | Patrick       | 40  | Annecy           |
+| 17  | Seth         | Julien        | 41  | Saint Martin Le Vinoux |
+| 18  | Gecko        | Aurélien      | 39  | Annecy           |
+| 19  | ZERBI        | Pierrick      | 41  | Rillieux la Pape |
+| 20  | Caahrnage    | Thomas        | 39  | Pringy           |
+| 21  | Noob4d       | Jean-Michel   | 37  | Grenoble         |
+| 22  | Tartiflettor | Yann          | 38  | SMA              |
+| 23  | Nanadvil     | Jean-Philippe | 41  | Aix les Bains    |
+| 24  | DarkMantis   | Alexis        | 37  | Draguignan       |
+| 25  | Uni          | Loic          | 36  | Barjols          |
+| 26  | Didiwha      | Laidi         | 34  | Grenoble         |
 
 &nbsp;
-
-
-
 
 Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 2025 (dérnière GreLAN) :
 
