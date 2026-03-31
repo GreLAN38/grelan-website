@@ -38,7 +38,7 @@ Voici la liste des **26** participants de la **GreLAN 2026** le WE du 28 mars 20
 
 &nbsp;
 
-Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 2025 (dérnière GreLAN) :
+Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 2025 :
 
 | N°  | Pseudo | Prénom | Age | Ville |
 | --- | --- | --- | --- | --- |
@@ -60,8 +60,6 @@ Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 20
 | 16  | DarkMantis   | Alexis        | 36  | Draguignan       |
 
 &nbsp;
-
-
 
 Voici la liste des **16** participants de la **GreLAN 21'** le WE du 18 mars 2023 :
 
