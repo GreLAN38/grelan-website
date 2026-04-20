@@ -7,7 +7,7 @@ type: _default
 ---
 &nbsp;
 
-Voici la liste des **26** participants de la **GreLAN 2026** le WE du 28 mars 2026 (dérnière GreLAN) :
+Voici la liste des **26** participants de la **GreLAN 2026** le WE du 28 mars 2026 (dernière GreLAN) :
 
 | N°  | Pseudo       | Prénom        | Age | Ville                  |
 | --- | ------------ | ------------- | --- | ---------------------- |
