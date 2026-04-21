@@ -38,6 +38,7 @@ Voici la liste des **26** participants de la **GreLAN 2026** le WE du 28 mars 20
 | 25  | Uni          | Loic          | 36  | Barjols                |
 | 26  | Didiwha      | Laidi         | 34  | Grenoble               |
 
+\
 &nbsp;
 
 Voici la liste des **16** participants de la **GreLAN 2025** le WE du 15 mars 2025 :
