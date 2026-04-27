@@ -13,8 +13,7 @@ Nous sommes pour le moment 1 joueur sur un nombre de place limité à **25**. Et
 
 Actuellement **il reste 24 places** pour arriver aux 25 maximum de la capacité de la salle.
 
-Mise à jour du site le 20/04/2026 à 7h00\
-
+Mise à jour du site le 20/04/2026 à 7h00.\
 &nbsp;
 
 | N°  | Pseudo   | Prénom  | Age | Ville | Team   | Cotisation |
