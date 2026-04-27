@@ -5,16 +5,12 @@ draft: false
 layout: single
 type: _default
 ---
-La GreLAN 26 du vendredi 27 mars 20h au dimanche 29 mars 2026 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana. Voir plan ici.
+La GreLAN 27 du vendredi XX mars 20h au dimanche XX mars 2026 vers 13h, dans la grande salle d’Oxywork au 18 Rue de Brotterode, 38950 Saint-Martin-le-Vinoux, en face de la maison de la Pizza Sana.  Voir plan [ici](https://www.grelan.fr/map/).
 
 Prix de 20€ par participant.
 
-> # <FONT COLOR=Red> # Il n'y plus de place pour cette GreLAN, désolé, il fallait vous inscrire plus tôt, encore désolé. </FONT>
-
-<?
-Fin des inscriptions sur internet une semaine avant la GreLAN 26 (soit le lundi 23 mars).
-?>
-
+Fin des inscriptions sur internet une semaine avant la GreLAN 27 (soit le lundi XX mars).
+\
 Places limitées à 25, merci de vous inscrire et en cas d'annulation de me prévenir rapidement, pour cela (voir L'association).
 
 Inscriptions validées manuellement à la réception du payement.
